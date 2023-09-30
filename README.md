@@ -68,9 +68,11 @@ In the end, we effectively did EDA and delivered critical findings to tackle sig
 5. Users of Netflix can organize similar content tastes by clustering text-based features. By seeing patterns and providing tailored recommendations, well-formed clusters improve the recommendation system. This enhances platform user experience and content relevance.
    
 📋 Execution Instruction
+
 The given IPython Notebook can be either downloaded to be run on your local Jupyter Notebook or can be directly run on Google Colab.
 
 📜 Credits
+
 Abhishek Rathore| Data Scientist | Machine Learning Engineer | Data Science enthusiast
 
 Special thanks to AlmaBetter
