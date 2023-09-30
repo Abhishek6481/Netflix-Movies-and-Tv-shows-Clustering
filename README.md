@@ -66,7 +66,15 @@ In the end, we effectively did EDA and delivered critical findings to tackle sig
 2. we used Silhouette score method and After evaluating the Silhouette Score, we found that the best score was achieved with 15 clusters, which amounted to 0.0.010383798598527266.
 4. We determined the longest vertical distance that may be drawn without crossing any other horizontal lines by evaluating the dendrogram. The number of vertical lines it crossed after passing through this distance was noted. We discovered that 15 clusters is the optimum number for K-means from the dendrogram's point of view.
 5. Users of Netflix can organize similar content tastes by clustering text-based features. By seeing patterns and providing tailored recommendations, well-formed clusters improve the recommendation system. This enhances platform user experience and content relevance.
+📋 Execution Instruction
+The given IPython Notebook can be either downloaded to be run on your local Jupyter Notebook or can be directly run on Google Colab.
 
+📜 Credits
+Abhishek Rathore| Data Scientist | Machine Learning Engineer | Data Science enthusiast
+
+Special thanks to AlmaBetter
+
+Contact me for Data Science Project Collaborations
 
 
 
